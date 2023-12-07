@@ -1,2 +1,2 @@
 # Hexaware_Work
-Total Hexaware work donr by Amit Pandharikar.
+Total Hexaware work done by Amit Pandharikar.
